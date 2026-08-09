@@ -15,5 +15,3 @@ print("I study for two hours at night")
 
 # Calculating total study time in a week
 print("Total study hours in a week:", 2 * 7)
-
-# End
