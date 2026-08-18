@@ -1,0 +1,22 @@
+friend1 = "Alex"
+birthday1 = "June 30"
+
+friend2 = "kenen"
+birthday2 = "June 15"
+
+friend3 = "kemen"
+birthday3 = "July 10"
+
+friend4 = "kenem"
+birthday4= "July 25"
+
+friend5 = "jack"
+birthday5 = "December 25"
+
+print(friend1,birthday1)
+print(friend2,birthday2)
+print(friend3,birthday3)
+print(friend4,birthday4)
+print(friend5,birthday5)
+
+
